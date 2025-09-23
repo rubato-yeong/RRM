@@ -4,7 +4,7 @@
 
 ![Teaser](./fig/fig_overview.png)
 
-[Jinyeong Kim](https://rubato-yeong.github.io/)<sup>&#42;</sup>, Junhyeok Kim<sup>&#42;</sup>, Yumin Shim, Joohyeok Kim, Sunyoung Jung, [Seong Jae Hwang](https://micv.yonsei.ac.kr/seongjae)<sup>&dagger;</sup>
+[Jinyeong Kim](https://rubato-yeong.github.io/)<sup>&#42;</sup>, [Junhyeok Kim](https://scholar.google.com/citations?hl=en&user=OjGkP-8AAAAJ)<sup>&#42;</sup>, Yumin Shim, [Joohyeok Kim](https://kyyle2114.github.io/), Sunyoung Jung, [Seong Jae Hwang](https://micv.yonsei.ac.kr/seongjae)<sup>&dagger;</sup>
 
 Yonsei University
 (<sup>&#42;</sup>Equal contribution, <sup>&dagger;</sup>Corresponding author)
