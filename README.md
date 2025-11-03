@@ -1,13 +1,20 @@
-# [NeurIPS 2025] Interpreting vision transformers via residual replacement model
+# [NeurIPS '25] Interpreting vision transformers via residual replacement model
 
-[![arXiv](https://img.shields.io/badge/arXiv-2509.17401-b31b1b.svg)](https://arxiv.org/abs/2509.17401)
+
+<div style="text-align: center;">
+
+[![arXiv](https://img.shields.io/badge/arXiv-2509.17401-b31b1b.svg)](https://arxiv.org/abs/2509.17401)&nbsp;
+[![LICENSE](https://img.shields.io/badge/License-Apache%202.0-g.svg)](LICENSE)
 
 ![Teaser](./fig/fig_overview.png)
 
-[Jinyeong Kim](https://rubato-yeong.github.io/)<sup>&#42;</sup>, [Junhyeok Kim](https://timesplutic.github.io)<sup>&#42;</sup>, [Yumin Shim](https://scholar.google.com/citations?user=DZhr9KMAAAAJ&hl=en), [Joohyeok Kim](https://kyyle2114.github.io/), [Sunyoung Jung](https://sunyj-hxppy.github.io/), [Seong Jae Hwang](https://micv.yonsei.ac.kr/seongjae)<sup>&dagger;</sup>
+<b>[Jinyeong Kim](https://rubato-yeong.github.io/)<sup>&#42;</sup> &nbsp;&middot;&nbsp; [Junhyeok Kim](https://timesplutic.github.io)<sup>&#42;</sup><br></b>
+[Yumin Shim](https://scholar.google.com/citations?user=DZhr9KMAAAAJ&hl=en) &nbsp;&middot;&nbsp; [Joohyeok Kim](https://kyyle2114.github.io/) &nbsp;&middot;&nbsp; [Sunyoung Jung](https://sunyj-hxppy.github.io/) &nbsp;&middot;&nbsp; [Seong Jae Hwang](https://micv.yonsei.ac.kr/seongjae)<sup>&dagger;</sup>
 
 Yonsei University
 (<sup>&#42;</sup>Equal contribution, <sup>&dagger;</sup>Corresponding author)
+
+</div>
 
 ## Code
 
